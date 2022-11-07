@@ -1,0 +1,25 @@
+{
+  "name": "webdev1_project",
+  "version": "1.0.0",
+  "description": "The system provides a different set of functionality for each user role. User roles in the system:",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "nodemon run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.5",
+    "mongoose-sequence": "^5.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "dotenv": "^16.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
