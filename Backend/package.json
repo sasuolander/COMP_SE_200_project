@@ -20,6 +20,6 @@
     "@babel/core": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
     "dotenv": "^16.0.2",
-    "nodemon": "^2.0.19"
+    "nodemon": "2.0.20"
   }
 }
